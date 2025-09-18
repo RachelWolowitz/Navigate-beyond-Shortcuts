@@ -1,6 +1,3 @@
----
-license: mit
----
 # Navigate Beyond Shortcuts: Debiased Learning through the Lens of Neural Collapse
 [![License: MIT](https://img.shields.io/badge/License-MIT-g.svg)](https://opensource.org/licenses/MIT)
 

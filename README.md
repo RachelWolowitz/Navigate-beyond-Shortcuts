@@ -17,7 +17,7 @@ The **recommended usage** is as follows:
 cd Navigate-beyond-Shortcuts
 pip install -r requirements.txt
 ```
-2. We provide our datasets for evaluation in ``./data``, including 2 synthetic datasets (i.e., ColoredMNIST, CorruptedCIFAR10), and 3 real-world biased datasets (i.e., Biased FFHQ (BFFHQ), BAR, Dogs & Cats). Please unzip the file ``data.zip`` to get these datasets. 
+2. We provide our datasets for evaluation in ``./data``, including 2 synthetic datasets (i.e., ColoredMNIST, CorruptedCIFAR10), and 3 real-world biased datasets (i.e., BFFHQ, BAR, Dogs & Cats). Please unzip the file ``data.zip`` to get these datasets. 
 
 3. Run ETF-Debias training:
 ```
